@@ -1,5 +1,7 @@
 # Spec Kit 速查表 | Spec Kit Cheatsheet | Guía rápida de Spec Kit
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **先写规格、再让 AI 写代码 —— 规格没过门，代码不许开工**
 
 > 一页看懂 GitHub 官方的 Spec Kit：把「先想清楚要做什么」变成一套可执行的流程。它给 AI 编程助手装上结构化工序 —— 先立项目宪法（constitution），再把需求写成规格（specify），澄清歧义（clarify），出技术方案（plan），拆成任务（tasks），一致性检查（analyze）过了才动手实现（implement），最后拿实现回对规格收敛（converge）。你要管的不再是代码细节，而是规格的质量。
